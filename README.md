@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+
+- 🔭 I’m currently studying BSc Computer Science in University of Bristol 🇬🇧
+- 👯 I’m looking to collaborate on any Coding Competitive Competition
+- 📫 How to reach me: dylanlin0411@gmail.com
+
 <!--
 **Dylannni/Dylannni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
